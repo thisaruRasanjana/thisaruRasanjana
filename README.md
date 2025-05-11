@@ -21,8 +21,3 @@
 ### 📈 GitHub Stats
 
 ![Thisaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisaruRasanjana&show_icons=true&theme=radical)
-
-### 🤝 Contact Me
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" />](https://www.linkedin.com/in/thisaru-ramanayaka-a14a14307/)
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" />](mailto:thisarurasanjana242@gmail.com)
